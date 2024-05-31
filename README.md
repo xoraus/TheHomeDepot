@@ -11,6 +11,8 @@ This platform focuses on the following key areas:
 - **Payment Handling**: Securely process payments.
 - **Notification Services**: Send notifications to customers.
 
+![TheHomeDepot-Architecture](micro-services.drawio.svg)
+
 ## 🛠️ Microservices
 
 Here are the core microservices that make up our e-commerce platform:
